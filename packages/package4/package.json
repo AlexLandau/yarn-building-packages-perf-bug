@@ -1,0 +1,11 @@
+{
+  "private": true,
+  "name": "package4",
+  "version": "0.0.1",
+  "scripts": {
+  },
+  "devDependencies": {
+    "webpack": "^3.0.0"
+  },
+  "dependencies": {}
+}
