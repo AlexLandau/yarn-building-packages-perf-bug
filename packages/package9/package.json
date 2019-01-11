@@ -7,5 +7,23 @@
   "devDependencies": {
     "webpack": "^3.0.0"
   },
-  "dependencies": {}
+  "dependencies": {
+    "package1": "0.0.1",
+    "package2": "0.0.1",
+    "package3": "0.0.1",
+    "package4": "0.0.1",
+    "package5": "0.0.1",
+    "package6": "0.0.1",
+    "package7": "0.0.1",
+    "package8": "0.0.1",
+
+    "fsevents": "1.2.3",
+    "node-sass": "^4.11.0",
+    "nunjucks": "^3.1.6",
+    "phantomjs-prebuilt": "^2.1.16",
+    "sinon": "^7.2.2",
+    "typemoq": "^2.1.0",
+    "uglifyjs-webpack-plugin": "2.1.0",
+    "utf-8-validate": "5.0.1"
+  }
 }
